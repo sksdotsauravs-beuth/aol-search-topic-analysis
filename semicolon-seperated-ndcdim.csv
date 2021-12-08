@@ -1,0 +1,27 @@
+1;0;natural disaster;;natural disaster
+2;1;geological disaster;0;geological disaster
+3;2;hydrological disaster;0;hydrological disaster
+4;3;meteorological disaster;0;meteorological disaster
+5;4;wildfire;0;wildfire
+6;5;space disaster;0;space disaster
+7;6;avalanche;1;avalanche,snowslide
+8;7;landslide;1;landslide,landslip
+9;8;earthquake;1;earthquake,seismic wave
+10;9;sinkhole;1;sinkhole,swallow hole
+11;10;volcanic eruption;1;volcanic eruption,volcanic ash,cooled ash
+12;11;flood;2;flood
+13;12;tsunami;2;tsunami,seismic sea wave
+14;13;limnic eruption;2;limnic eruption
+15;14;cyclonic storm;3;cyclone,tropical cyclone,hurricane,typhoon
+16;15;blizzard;3;blizzard,winter storm,ground blizzard
+17;16;hailstorm;3;hailstorm,hailstone
+18;17;ice storm;3;ice storm,freezing rain
+19;18;cold wave;3;cold wave,cold snap,cold spell
+20;19;heat wave;3;heat wave
+21;20;drought;3;drought,hot dry wind
+22;21;thunderstorm;3;thunderstorm,storm,lightning
+23;22;tornado;3;tornado
+24;23;forest fire;4;forest fire
+25;24;meteor shower;5;meteor shower
+26;25;air burst;5;air burst
+27;26;solar flare;5;solar flare

@@ -1,0 +1,30 @@
+"Catergory of Natural Disasters, Source: Wikipedia
+(https://en.wikipedia.org/wiki/Natural_disaster)",,,
+Category ID,Disaster Category,Parent Category,Relevant Tags
+0;natural disaster;;natural disaster
+1;geological disaster;0;geological disaster
+2;hydrological disaster;0;hydrological disaster
+3;meteorological disaster;0;meteorological disaster
+4;wildfire;0;wildfire
+5;space disaster;0;space disaster
+6;avalanche;1;avalanche,snowslide
+7;landslide;1;landslide,landslip
+8;earthquake;1;earthquake,seismic wave
+9;sinkhole;1;sinkhole,cenote,swallow hole
+10;volcanic eruption;1;volcanic eruption,lava,volcanic ash,cooled ash
+11;flood;2;flood
+12;tsunami;2;tsunami,seismic sea wave
+13;limnic eruption;2;limnic eruption
+14;cyclonic storm;3;cyclone,tropical cyclone,hurricane,typhoon
+15;blizzard;3;blizzard,winter storm,ground blizzard
+16;hailstorm;3;hailstorm,hailstone
+17;ice storm;3;ice storm,freezing rain
+18;cold wave;3;cold wave,cold snap,cold spell
+19;heat wave;3;heat wave
+20;drought;3;drought,hot dry wind
+21;thunderstorm;3;thunderstorm,storm,lightning
+22;tornado;3;tornado
+23;forest fire;4;forest fire
+24;meteor shower;5;meteor shower
+25;air burst;5;air burst
+26;solar flare;5;solar flare
